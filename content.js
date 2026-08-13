@@ -1,6 +1,12 @@
+// HEY GUYS ITS ME, BROKER. I.. forgot what i wanted to say
+
+// im too lazy to comment out the code so have fun reading this
+
 (() => {
   const IMAGE_COUNT = 20;
+
   const images = [];
+
   for (let i = 1; i <= IMAGE_COUNT; i++) {
     images.push(chrome.runtime.getURL(`images/${i}.png`));
   }
