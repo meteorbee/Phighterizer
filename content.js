@@ -1,6 +1,7 @@
 // HEY GUYS ITS ME, BROKER. I.. forgot what i wanted to say
 
 // im too lazy to comment out the code so have fun reading this
+// if you have any contributions to make please do :D
 
 (() => {
   const IMAGE_COUNT = 20;
